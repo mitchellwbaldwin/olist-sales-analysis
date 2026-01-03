@@ -16,10 +16,10 @@ The analysis was performed using:
 ## Dashboards
 
 ### Trends Overview
-![Trends Overview](screenshots/trends_overview.png)
+![Trends Overview](screenshots/Trends_Overview.png)
 
 ### Geographic Performance
-![Geographic Performance](screenshots/geographic_performance.png)
+![Geographic Performance](screenshots/Geographic_Performance.png)
 
 ## Skills Demonstrated
 - SQL joins and aggregations
